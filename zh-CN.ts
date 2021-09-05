@@ -1092,7 +1092,7 @@ export const ZH_CN = {
     WholesaleCenterOrderFasterV2: "更快更大的批发",
     OfflineResearchSwissBoost: "离线研究",
     OfflineResearchSwissBoostDesc: "离线时会产生研究点（根据你的研究实验室等级、学习中的科学点和离线时间）",
-    SanJose: "San Jose",
+    SanJose: "圣何塞",
     SanJoseBonus:
         "<li>Unique building: chip manufacturer</li><li>Unique building: FaceApp Inc</li><li>Unique building: Bitcoin Miner</li><li>All buildings that consume silicon have max tile modifier</li><li>Solar panels generate 2x power</li><li>Silicon mines have 2x output</li>",
     RotterdamBonusV2:
